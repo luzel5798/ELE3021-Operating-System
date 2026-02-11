@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stack": "c",
+        "cstring": "c",
+        "user.h": "c",
+        "thread.h": "c",
+        "memory": "c",
+        "memlayout.h": "c",
+        "elf.h": "c"
+    }
+}
